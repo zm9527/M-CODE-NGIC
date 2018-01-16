@@ -1,0 +1,11 @@
+lib/libsponsdn/libsponsdn/
+test/sponsdn/sponsdn/
+cp/build/
+dp/build/
+dp/cdr
+*.o
+*.o.cmd
+*.o.d
+.agree
+.download
+
